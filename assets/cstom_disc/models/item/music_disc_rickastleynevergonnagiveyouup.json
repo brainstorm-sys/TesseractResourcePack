@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "cstom_disc:item/music_disc_rickastleynevergonnagiveyouup"
+    }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "arbiters_crossbow:item/crossbow",
+  "textures": {
+    "layer0": "arbiters_crossbow:item/crossbow_arrow"
+  }
+}

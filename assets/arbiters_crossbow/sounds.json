@@ -1,0 +1,17 @@
+{
+    "crystal_smell": {
+        "sounds": [
+            "arbiters_crossbow:crystalblow"
+        ]
+    },
+    "crystal_sniff": {
+        "sounds": [
+            "arbiters_crossbow:sniff"
+        ]
+    },
+    "shart": {
+        "sounds": [
+            "arbiters_crossbow:fart"
+        ]
+    }
+}

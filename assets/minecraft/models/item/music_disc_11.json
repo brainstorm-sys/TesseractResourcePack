@@ -1,0 +1,32 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/music_disc_11"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "cstom_disc:item/music_disc_captansparklezrevenge"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "cstom_disc:item/music_disc_rickastleynevergonnagiveyouup"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "cstom_disc:item/music_disc_jollyolbritsmakeacake"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "cstom_disc:item/music_disc_coldplayvivalavida"
+        }
+    ]
+}

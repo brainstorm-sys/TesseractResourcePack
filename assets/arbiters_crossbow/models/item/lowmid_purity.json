@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "arbiters_crossbow:item/lowmid_purity"
+  }
+}

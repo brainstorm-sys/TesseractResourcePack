@@ -1,0 +1,34 @@
+{
+    "music_disc.captansparklezrevenge": {
+        "sounds": [
+            {
+                "name": "cstom_disc:records/captansparklezrevenge",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.rickastleynevergonnagiveyouup": {
+        "sounds": [
+            {
+                "name": "cstom_disc:records/rickastleynevergonnagiveyouup",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.jollyolbritsmakeacake": {
+        "sounds": [
+            {
+                "name": "cstom_disc:records/jollyolbritsmakeacake",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.coldplayvivalavida": {
+        "sounds": [
+            {
+                "name": "cstom_disc:records/coldplayvivalavida",
+                "stream": true
+            }
+        ]
+    }
+}
