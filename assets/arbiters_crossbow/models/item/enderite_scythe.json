@@ -1,6 +1,45 @@
 {
-  "parent": "minecraft:item/handheld",
-  "textures": {
-    "layer0": "arbiters_crossbow:item/enderite_scythe"
-  }
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "arbiters_crossbow:item/enderite_scythe"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [121.18, -88.46, 158.48],
+			"translation": [0, 2.25, 0],
+			"scale": [1.37305, 1.37305, 1.37305]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [7.42, 88.21, -48.86],
+			"translation": [0, 2.25, 0],
+			"scale": [1.37305, 1.37305, 1.37305]
+		},
+		"firstperson_righthand": {
+			"rotation": [161.39, -84.44, -140.64],
+			"translation": [0, 2, 1.5],
+			"scale": [1.33398, 1.33398, 1.33398]
+		},
+		"firstperson_lefthand": {
+			"rotation": [3.29, 69.54, -76.22],
+			"translation": [0, 2, 3.5],
+			"scale": [1.33398, 1.33398, 0.45703]
+		},
+		"gui": {
+			"rotation": [0, 0, 86.25]
+		},
+		"head": {
+			"rotation": [0, 0, 169.5],
+			"translation": [0, -16.75, 4.25],
+			"scale": [2.57813, 2.57813, 2.57813]
+		},
+		"fixed": {
+			"scale": [2.07617, 2.07617, 2.07617]
+		},
+		"on_shelf": {
+			"rotation": [0, 0, 67],
+			"scale": [1.33984, 1.33984, 1.33984]
+		}
+	}
 }
